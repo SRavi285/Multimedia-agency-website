@@ -39,7 +39,7 @@ const Contact = () => {
           <ul className="space-y-4">
             <li className="flex items-center">
               <FaPhoneAlt className="mr-2 text-[#77a50c]" />
-              <span>+1 234 567 890</span>
+              <span>+91 0000000000</span>
             </li>
             <li className="flex items-center">
               <FaEnvelope className="mr-2 text-[#77a50c]" />
@@ -47,7 +47,7 @@ const Contact = () => {
             </li>
             <li className="flex items-center">
               <FaMapMarkerAlt className="mr-2 text-[#77a50c]" />
-              <span>1234 Agency Lane, New York, NY 10001</span>
+              <span>201301 Mamura Sector 66 Noida UP</span>
             </li>
           </ul>
 
